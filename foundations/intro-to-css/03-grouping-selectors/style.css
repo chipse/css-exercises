@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.dark,
+.special  {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
+
+.dark {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.special {
+    background-color:  #ffff00;
+    color: #000000;
+}
