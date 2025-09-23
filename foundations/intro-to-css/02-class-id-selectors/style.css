@@ -3,17 +3,16 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
+.change-font-size {
+    font-size: 24px;
+}
+
 #large-headline {
     color: #0000ff;
     font-size: 36px;
 }
 
-.large-text {
-    font-size: 24px;
-}
-
 #bold-headline {
     background-color: #90ee90;
-    font-size: 24px;
     font-weight: bold;
 }
